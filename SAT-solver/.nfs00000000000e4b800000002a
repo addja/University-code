@@ -1,0 +1,68 @@
+random3SAT/vars-100-10.cnf
+========================
+Error in model, clause is not satisfied:90 54 15 
+Command exited with non-zero status 1
+Time: 0:00.26
+
+random3SAT/vars-100-1.cnf
+========================
+Error in model, clause is not satisfied:91 88 4 
+Command exited with non-zero status 1
+Time: 0:00.01
+
+random3SAT/vars-100-2.cnf
+========================
+Error in model, clause is not satisfied:45 74 51 
+Command exited with non-zero status 1
+Time: 0:00.02
+
+random3SAT/vars-100-3.cnf
+========================
+Error in model, clause is not satisfied:63 36 12 
+Command exited with non-zero status 1
+Time: 0:00.06
+
+random3SAT/vars-100-4.cnf
+========================
+Error in model, clause is not satisfied:68 92 60 
+Command exited with non-zero status 1
+Time: 0:00.67
+
+random3SAT/vars-100-5.cnf
+========================
+Error in model, clause is not satisfied:6 12 43 
+Command exited with non-zero status 1
+Time: 0:00.36
+
+random3SAT/vars-100-6.cnf
+========================
+Error in model, clause is not satisfied:75 28 32 
+Command exited with non-zero status 1
+Time: 0:00.18
+
+random3SAT/vars-100-7.cnf
+========================
+Error in model, clause is not satisfied:51 24 11 
+Command exited with non-zero status 1
+Time: 0:00.06
+
+random3SAT/vars-100-8.cnf
+========================
+Error in model, clause is not satisfied:90 15 19 
+Command exited with non-zero status 1
+Time: 0:00.25
+
+random3SAT/vars-100-9.cnf
+========================
+Error in model, clause is not satisfied:75 40 31 
+Command exited with non-zero status 1
+Time: 0:00.46
+
+random3SAT/vars-150-10.cnf
+========================
+Error in model, clause is not satisfied:126 82 95 
+Command exited with non-zero status 1
+Time: 3:09.43
+
+random3SAT/vars-150-1.cnf
+========================

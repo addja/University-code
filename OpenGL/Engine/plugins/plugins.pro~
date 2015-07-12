@@ -1,0 +1,13 @@
+TEMPLATE=subdirs
+SUBDIRS = draw-immediate navigate-default render-default 
+SUBDIRS += alpha-blending
+SUBDIRS += effect-crt
+SUBDIRS += show-help
+SUBDIRS += multitex
+# Afegiu a SUBDIRS els vostres plugins!
+SUBDIRS += show-degree
+SUBDIRS += show-color
+SUBDIRS += inverter
+
+
+

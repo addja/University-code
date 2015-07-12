@@ -1,0 +1,500 @@
+random3SAT/vars-100-10.cnf
+======== My SAT =========
+UNSATISFIABLE
+Time: 0.009144
+902 decisions.
+2.48556e+06 propagations per second.
+Time: 0:00.01
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-100-1.cnf
+======== My SAT =========
+SATISFIABLE
+Time: 0.002423
+263 decisions.
+2.72059e+06 propagations per second.
+Time: 0:00.00
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-100-2.cnf
+======== My SAT =========
+SATISFIABLE
+Time: 0.001661
+39 decisions.
+446117 propagations per second.
+Time: 0:00.00
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-100-3.cnf
+======== My SAT =========
+UNSATISFIABLE
+Time: 0.010663
+1015 decisions.
+2.42971e+06 propagations per second.
+Time: 0:00.01
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-100-4.cnf
+======== My SAT =========
+UNSATISFIABLE
+Time: 0.008123
+1211 decisions.
+3.88957e+06 propagations per second.
+Time: 0:00.01
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-100-5.cnf
+======== My SAT =========
+SATISFIABLE
+Time: 0.002513
+263 decisions.
+2.92559e+06 propagations per second.
+Time: 0:00.00
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-100-6.cnf
+======== My SAT =========
+SATISFIABLE
+Time: 0.007856
+882 decisions.
+2.9002e+06 propagations per second.
+Time: 0:00.00
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-100-7.cnf
+======== My SAT =========
+SATISFIABLE
+Time: 0.005411
+638 decisions.
+3.19885e+06 propagations per second.
+Time: 0:00.00
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-100-8.cnf
+======== My SAT =========
+SATISFIABLE
+Time: 0.003801
+303 decisions.
+2.196e+06 propagations per second.
+Time: 0:00.00
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-100-9.cnf
+======== My SAT =========
+UNSATISFIABLE
+Time: 0.005423
+679 decisions.
+3.36806e+06 propagations per second.
+Time: 0:00.00
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-150-10.cnf
+======== My SAT =========
+UNSATISFIABLE
+Time: 0.052064
+7470 decisions.
+5.11407e+06 propagations per second.
+Time: 0:00.05
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-150-1.cnf
+======== My SAT =========
+SATISFIABLE
+Time: 0.028666
+4114 decisions.
+4.86147e+06 propagations per second.
+Time: 0:00.03
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-150-2.cnf
+======== My SAT =========
+SATISFIABLE
+Time: 0.039717
+6003 decisions.
+5.19533e+06 propagations per second.
+Time: 0:00.04
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-150-3.cnf
+======== My SAT =========
+SATISFIABLE
+Time: 0.033877
+4623 decisions.
+4.99932e+06 propagations per second.
+Time: 0:00.03
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-150-4.cnf
+======== My SAT =========
+SATISFIABLE
+Time: 0.048133
+7172 decisions.
+5.23693e+06 propagations per second.
+Time: 0:00.05
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-150-5.cnf
+======== My SAT =========
+UNSATISFIABLE
+Time: 0.058359
+8509 decisions.
+4.95457e+06 propagations per second.
+Time: 0:00.05
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-150-6.cnf
+======== My SAT =========
+SATISFIABLE
+Time: 0.023002
+3028 decisions.
+4.60977e+06 propagations per second.
+Time: 0:00.02
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-150-7.cnf
+======== My SAT =========
+UNSATISFIABLE
+Time: 0.053109
+7976 decisions.
+5.14787e+06 propagations per second.
+Time: 0:00.05
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-150-8.cnf
+======== My SAT =========
+SATISFIABLE
+Time: 0.002249
+62 decisions.
+692752 propagations per second.
+Time: 0:00.00
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-150-9.cnf
+======== My SAT =========
+SATISFIABLE
+Time: 0.048029
+6411 decisions.
+4.83004e+06 propagations per second.
+Time: 0:00.04
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-200-10.cnf
+======== My SAT =========
+UNSATISFIABLE
+Time: 0.790047
+104982 decisions.
+5.60479e+06 propagations per second.
+Time: 0:00.79
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-200-1.cnf
+======== My SAT =========
+UNSATISFIABLE
+Time: 0.469256
+60810 decisions.
+5.57879e+06 propagations per second.
+Time: 0:00.47
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-200-2.cnf
+======== My SAT =========
+SATISFIABLE
+Time: 0.016999
+1650 decisions.
+3.97476e+06 propagations per second.
+Time: 0:00.01
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-200-3.cnf
+======== My SAT =========
+UNSATISFIABLE
+Time: 0.640403
+85242 decisions.
+5.62492e+06 propagations per second.
+Time: 0:00.64
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-200-4.cnf
+======== My SAT =========
+UNSATISFIABLE
+Time: 0.219416
+29784 decisions.
+5.52852e+06 propagations per second.
+Time: 0:00.22
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-200-5.cnf
+======== My SAT =========
+UNSATISFIABLE
+Time: 0.283737
+36798 decisions.
+5.56738e+06 propagations per second.
+Time: 0:00.28
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-200-6.cnf
+======== My SAT =========
+SATISFIABLE
+Time: 0.372418
+49308 decisions.
+5.63372e+06 propagations per second.
+Time: 0:00.37
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-200-7.cnf
+======== My SAT =========
+UNSATISFIABLE
+Time: 1.12947
+148457 decisions.
+5.67582e+06 propagations per second.
+Time: 0:01.13
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-200-8.cnf
+======== My SAT =========
+SATISFIABLE
+Time: 0.07898
+9719 decisions.
+5.06077e+06 propagations per second.
+Time: 0:00.08
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-200-9.cnf
+======== My SAT =========
+SATISFIABLE
+Time: 0.254982
+33628 decisions.
+5.47324e+06 propagations per second.
+Time: 0:00.25
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-250-10.cnf
+======== My SAT =========
+SATISFIABLE
+Time: 0.540322
+58231 decisions.
+5.31715e+06 propagations per second.
+Time: 0:00.54
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-250-1.cnf
+======== My SAT =========
+UNSATISFIABLE
+Time: 4.86479
+536285 decisions.
+5.36608e+06 propagations per second.
+Time: 0:04.86
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-250-2.cnf
+======== My SAT =========
+UNSATISFIABLE
+Time: 6.28708
+694997 decisions.
+5.36914e+06 propagations per second.
+Time: 0:06.28
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-250-3.cnf
+======== My SAT =========
+SATISFIABLE
+Time: 1.31338
+147285 decisions.
+5.39319e+06 propagations per second.
+Time: 0:01.31
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-250-4.cnf
+======== My SAT =========
+SATISFIABLE
+Time: 2.61747
+281501 decisions.
+5.31402e+06 propagations per second.
+Time: 0:02.61
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-250-5.cnf
+======== My SAT =========
+UNSATISFIABLE
+Time: 6.20024
+573958 decisions.
+4.57091e+06 propagations per second.
+Time: 0:06.19
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-250-6.cnf
+======== My SAT =========
+UNSATISFIABLE
+Time: 11.8273
+1061317 decisions.
+4.40014e+06 propagations per second.
+Time: 0:11.82
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-250-7.cnf
+======== My SAT =========
+SATISFIABLE
+Time: 1.13382
+103702 decisions.
+4.55478e+06 propagations per second.
+Time: 0:01.15
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-250-8.cnf
+======== My SAT =========
+UNSATISFIABLE
+Time: 7.81289
+723810 decisions.
+4.54994e+06 propagations per second.
+Time: 0:07.84
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-250-9.cnf
+======== My SAT =========
+SATISFIABLE
+Time: 1.43341
+135022 decisions.
+4.55058e+06 propagations per second.
+Time: 0:01.45
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-300-10.cnf
+======== My SAT =========
+SATISFIABLE
+Time: 17.2418
+1339788 decisions.
+4.46455e+06 propagations per second.
+Time: 0:17.23
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-300-1.cnf
+======== My SAT =========
+SATISFIABLE
+Time: 4.85042
+367721 decisions.
+4.17388e+06 propagations per second.
+Time: 0:04.87
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-300-2.cnf
+======== My SAT =========
+UNSATISFIABLE
+Time: 90.1955
+7080093 decisions.
+4.33012e+06 propagations per second.
+Time: 1:30.17
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-300-3.cnf
+======== My SAT =========
+UNSATISFIABLE
+Time: 37.7872
+3054337 decisions.
+4.42673e+06 propagations per second.
+Time: 0:37.77
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-300-4.cnf
+======== My SAT =========
+UNSATISFIABLE
+Time: 89.702
+7208845 decisions.
+4.4439e+06 propagations per second.
+Time: 1:29.68
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-300-5.cnf
+======== My SAT =========
+SATISFIABLE
+Time: 34.9249
+2795809 decisions.
+4.45725e+06 propagations per second.
+Time: 0:34.93
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-300-6.cnf
+======== My SAT =========
+UNSATISFIABLE
+Time: 39.5712
+3188782 decisions.
+4.41992e+06 propagations per second.
+Time: 0:39.57
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-300-7.cnf
+======== My SAT =========
+SATISFIABLE
+Time: 11.4467
+877162 decisions.
+4.2594e+06 propagations per second.
+Time: 0:11.47
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-300-8.cnf
+======== My SAT =========
+UNSATISFIABLE
+Time: 92.5162
+7162558 decisions.
+4.27117e+06 propagations per second.
+Time: 1:32.51
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-300-9.cnf
+======== My SAT =========
+SATISFIABLE
+Time: 19.901
+1557293 decisions.
+4.27706e+06 propagations per second.
+Time: 0:19.92
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+

@@ -1,0 +1,152 @@
+random3SAT/vars-100-10.cnf
+========================
+UNSATISFIABLE
+Time: 0:01.70
+
+random3SAT/vars-100-1.cnf
+========================
+SATISFIABLE
+Time: 0:00.37
+
+random3SAT/vars-100-2.cnf
+========================
+SATISFIABLE
+Time: 0:00.87
+
+random3SAT/vars-100-3.cnf
+========================
+UNSATISFIABLE
+Time: 0:03.34
+
+random3SAT/vars-100-4.cnf
+========================
+UNSATISFIABLE
+Time: 0:02.65
+
+random3SAT/vars-100-5.cnf
+========================
+SATISFIABLE
+Time: 0:09.09
+
+random3SAT/vars-100-6.cnf
+========================
+SATISFIABLE
+Time: 0:00.24
+
+random3SAT/vars-100-7.cnf
+========================
+SATISFIABLE
+Time: 0:00.39
+
+random3SAT/vars-100-8.cnf
+========================
+SATISFIABLE
+Time: 0:01.61
+
+random3SAT/vars-100-9.cnf
+========================
+UNSATISFIABLE
+Time: 0:01.93
+
+random3SAT/vars-150-10.cnf
+========================
+Command terminated by signal 11
+Time: 0:00.00
+
+random3SAT/vars-150-1.cnf
+========================
+Command terminated by signal 11
+Time: 0:00.00
+
+random3SAT/vars-150-2.cnf
+========================
+Command terminated by signal 11
+Time: 0:00.00
+
+random3SAT/vars-150-3.cnf
+========================
+Command terminated by signal 11
+Time: 0:00.00
+
+random3SAT/vars-150-4.cnf
+========================
+Command terminated by signal 11
+Time: 0:00.00
+
+random3SAT/vars-150-5.cnf
+========================
+Command terminated by signal 11
+Time: 0:00.01
+
+random3SAT/vars-150-6.cnf
+========================
+Command terminated by signal 11
+Time: 0:00.00
+
+random3SAT/vars-150-7.cnf
+========================
+Command terminated by signal 11
+Time: 0:00.00
+
+random3SAT/vars-150-8.cnf
+========================
+Command terminated by signal 11
+Time: 0:00.00
+
+random3SAT/vars-150-9.cnf
+========================
+Command terminated by signal 11
+Time: 0:00.00
+
+random3SAT/vars-200-10.cnf
+========================
+Command terminated by signal 11
+Time: 0:00.00
+
+random3SAT/vars-200-1.cnf
+========================
+Command terminated by signal 11
+Time: 0:00.00
+
+random3SAT/vars-200-2.cnf
+========================
+Command terminated by signal 11
+Time: 0:00.00
+
+random3SAT/vars-200-3.cnf
+========================
+Command terminated by signal 11
+Time: 0:00.00
+
+random3SAT/vars-200-4.cnf
+========================
+Command terminated by signal 11
+Time: 0:00.00
+
+random3SAT/vars-200-5.cnf
+========================
+Command terminated by signal 11
+Time: 0:00.00
+
+random3SAT/vars-200-6.cnf
+========================
+Command terminated by signal 11
+Time: 0:00.00
+
+random3SAT/vars-200-7.cnf
+========================
+Command terminated by signal 11
+Time: 0:00.00
+
+random3SAT/vars-200-8.cnf
+========================
+Command terminated by signal 11
+Time: 0:00.00
+
+random3SAT/vars-200-9.cnf
+========================
+Command terminated by signal 11
+Time: 0:00.01
+
+random3SAT/vars-250-10.cnf
+========================

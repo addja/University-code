@@ -1,0 +1,9 @@
+COMPILAR: 
+	$ make
+
+RESOLVER UN PROBLEMA:
+	$ ./mySAT < nombre_sample
+
+OBTENER TABLA DE RESULTADOS:
+(tener en el mismo directorio la carpeta random3SAT)
+	$ make run

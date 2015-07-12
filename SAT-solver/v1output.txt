@@ -1,0 +1,167 @@
+random3SAT/vars-100-10.cnf
+========================
+UNSATISFIABLE
+Time: 0:00.02
+
+random3SAT/vars-100-1.cnf
+========================
+SATISFIABLE
+Time: 0:00.01
+
+random3SAT/vars-100-2.cnf
+========================
+SATISFIABLE
+Time: 0:00.00
+
+random3SAT/vars-100-3.cnf
+========================
+UNSATISFIABLE
+Time: 0:00.02
+
+random3SAT/vars-100-4.cnf
+========================
+UNSATISFIABLE
+Time: 0:00.02
+
+random3SAT/vars-100-5.cnf
+========================
+SATISFIABLE
+Time: 0:00.01
+
+random3SAT/vars-100-6.cnf
+========================
+SATISFIABLE
+Time: 0:00.04
+
+random3SAT/vars-100-7.cnf
+========================
+SATISFIABLE
+Time: 0:00.01
+
+random3SAT/vars-100-8.cnf
+========================
+SATISFIABLE
+Time: 0:00.01
+
+random3SAT/vars-100-9.cnf
+========================
+UNSATISFIABLE
+Time: 0:00.00
+
+random3SAT/vars-150-10.cnf
+========================
+UNSATISFIABLE
+Time: 0:00.24
+
+random3SAT/vars-150-1.cnf
+========================
+SATISFIABLE
+Time: 0:00.30
+
+random3SAT/vars-150-2.cnf
+========================
+SATISFIABLE
+Time: 0:00.35
+
+random3SAT/vars-150-3.cnf
+========================
+SATISFIABLE
+Time: 0:00.15
+
+random3SAT/vars-150-4.cnf
+========================
+SATISFIABLE
+Time: 0:00.85
+
+random3SAT/vars-150-5.cnf
+========================
+UNSATISFIABLE
+Time: 0:00.44
+
+random3SAT/vars-150-6.cnf
+========================
+SATISFIABLE
+Time: 0:00.09
+
+random3SAT/vars-150-7.cnf
+========================
+UNSATISFIABLE
+Time: 0:00.40
+
+random3SAT/vars-150-8.cnf
+========================
+SATISFIABLE
+Time: 0:00.00
+
+random3SAT/vars-150-9.cnf
+========================
+SATISFIABLE
+Time: 0:00.39
+
+random3SAT/vars-200-10.cnf
+========================
+UNSATISFIABLE
+Time: 0:08.12
+
+random3SAT/vars-200-1.cnf
+========================
+UNSATISFIABLE
+Time: 0:08.03
+
+random3SAT/vars-200-2.cnf
+========================
+SATISFIABLE
+Time: 0:00.34
+
+random3SAT/vars-200-3.cnf
+========================
+UNSATISFIABLE
+Time: 0:09.45
+
+random3SAT/vars-200-4.cnf
+========================
+UNSATISFIABLE
+Time: 0:02.41
+
+random3SAT/vars-200-5.cnf
+========================
+UNSATISFIABLE
+Time: 0:13.12
+
+random3SAT/vars-200-6.cnf
+========================
+SATISFIABLE
+Time: 0:28.01
+
+random3SAT/vars-200-7.cnf
+========================
+UNSATISFIABLE
+Time: 0:27.56
+
+random3SAT/vars-200-8.cnf
+========================
+SATISFIABLE
+Time: 0:00.82
+
+random3SAT/vars-200-9.cnf
+========================
+SATISFIABLE
+Time: 0:04.78
+
+random3SAT/vars-250-10.cnf
+========================
+SATISFIABLE
+Time: 0:10.91
+
+random3SAT/vars-250-1.cnf
+========================
+UNSATISFIABLE
+Time: 2:56.12
+
+random3SAT/vars-250-2.cnf
+========================
+UNSATISFIABLE
+Time: 5:49.74
+
+random3SAT/vars-250-3.cnf
+========================

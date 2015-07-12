@@ -1,0 +1,850 @@
+random3SAT/vars-100-1.cnf
+========================
+
+## Picosat
+Satisfiability: SATISFIABLE
+Total time: 0.0 seconds
+Total number of decisions: 329
+Propagations per second: 1.2 megaprops/second
+
+## Own SAT solver
+Satisfiability: SATISFIABLE
+Total time: 0.002399 seconds
+Total number of decisions: 263
+Propagations per second: 2.74781 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-100-10.cnf
+========================
+
+## Picosat
+Satisfiability: UNSATISFIABLE
+Total time: 0.0 seconds
+Total number of decisions: 601
+Propagations per second: 2.0 megaprops/second
+
+## Own SAT solver
+Satisfiability: UNSATISFIABLE
+Total time: 0.009789 seconds
+Total number of decisions: 902
+Propagations per second: 2.32179 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-100-2.cnf
+========================
+
+## Picosat
+Satisfiability: SATISFIABLE
+Total time: 0.0 seconds
+Total number of decisions: 373
+Propagations per second: 2.3 megaprops/second
+
+## Own SAT solver
+Satisfiability: SATISFIABLE
+Total time: 0.001002 seconds
+Total number of decisions: 39
+Propagations per second: 0.739521 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-100-3.cnf
+========================
+
+## Picosat
+Satisfiability: UNSATISFIABLE
+Total time: 0.0 seconds
+Total number of decisions: 577
+Propagations per second: 3.5 megaprops/second
+
+## Own SAT solver
+Satisfiability: UNSATISFIABLE
+Total time: 0.007904 seconds
+Total number of decisions: 1015
+Propagations per second: 3.27783 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-100-4.cnf
+========================
+
+## Picosat
+Satisfiability: UNSATISFIABLE
+Total time: 0.0 seconds
+Total number of decisions: 694
+Propagations per second: 3.9 megaprops/second
+
+## Own SAT solver
+Satisfiability: UNSATISFIABLE
+Total time: 0.010731 seconds
+Total number of decisions: 1211
+Propagations per second: 2.94427 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-100-5.cnf
+========================
+
+## Picosat
+Satisfiability: SATISFIABLE
+Total time: 0.0 seconds
+Total number of decisions: 278
+Propagations per second: 1.1 megaprops/second
+
+## Own SAT solver
+Satisfiability: SATISFIABLE
+Total time: 0.00277 seconds
+Total number of decisions: 263
+Propagations per second: 2.65415 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-100-6.cnf
+========================
+
+## Picosat
+Satisfiability: SATISFIABLE
+Total time: 0.0 seconds
+Total number of decisions: 666
+Propagations per second: 3.3 megaprops/second
+
+## Own SAT solver
+Satisfiability: SATISFIABLE
+Total time: 0.008162 seconds
+Total number of decisions: 882
+Propagations per second: 2.79147 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-100-7.cnf
+========================
+
+## Picosat
+Satisfiability: SATISFIABLE
+Total time: 0.0 seconds
+Total number of decisions: 168
+Propagations per second: 3.1 megaprops/second
+
+## Own SAT solver
+Satisfiability: SATISFIABLE
+Total time: 0.008347 seconds
+Total number of decisions: 638
+Propagations per second: 2.07368 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-100-8.cnf
+========================
+
+## Picosat
+Satisfiability: SATISFIABLE
+Total time: 0.0 seconds
+Total number of decisions: 39
+Propagations per second: 0.7 megaprops/second
+
+## Own SAT solver
+Satisfiability: SATISFIABLE
+Total time: 0.003369 seconds
+Total number of decisions: 303
+Propagations per second: 2.47759 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-100-9.cnf
+========================
+
+## Picosat
+Satisfiability: UNSATISFIABLE
+Total time: 0.0 seconds
+Total number of decisions: 428
+Propagations per second: 2.9 megaprops/second
+
+## Own SAT solver
+Satisfiability: UNSATISFIABLE
+Total time: 0.008656 seconds
+Total number of decisions: 679
+Propagations per second: 2.1101 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-150-1.cnf
+========================
+
+## Picosat
+Satisfiability: SATISFIABLE
+Total time: 0.0 seconds
+Total number of decisions: 893
+Propagations per second: 2.0 megaprops/second
+
+## Own SAT solver
+Satisfiability: SATISFIABLE
+Total time: 0.034062 seconds
+Total number of decisions: 4114
+Propagations per second: 4.09133 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-150-10.cnf
+========================
+
+## Picosat
+Satisfiability: UNSATISFIABLE
+Total time: 0.0 seconds
+Total number of decisions: 3145
+Propagations per second: 4.5 megaprops/second
+
+## Own SAT solver
+Satisfiability: UNSATISFIABLE
+Total time: 0.047536 seconds
+Total number of decisions: 7470
+Propagations per second: 5.60121 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-150-2.cnf
+========================
+
+## Picosat
+Satisfiability: SATISFIABLE
+Total time: 0.0 seconds
+Total number of decisions: 3190
+Propagations per second: 3.6 megaprops/second
+
+## Own SAT solver
+Satisfiability: SATISFIABLE
+Total time: 0.044018 seconds
+Total number of decisions: 6003
+Propagations per second: 4.6877 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-150-3.cnf
+========================
+
+## Picosat
+Satisfiability: SATISFIABLE
+Total time: 0.0 seconds
+Total number of decisions: 1563
+Propagations per second: 3.2 megaprops/second
+
+## Own SAT solver
+Satisfiability: SATISFIABLE
+Total time: 0.039169 seconds
+Total number of decisions: 4623
+Propagations per second: 4.32388 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-150-4.cnf
+========================
+
+## Picosat
+Satisfiability: SATISFIABLE
+Total time: 0.0 seconds
+Total number of decisions: 1646
+Propagations per second: 2.9 megaprops/second
+
+## Own SAT solver
+Satisfiability: SATISFIABLE
+Total time: 0.050594 seconds
+Total number of decisions: 7172
+Propagations per second: 4.98219 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-150-5.cnf
+========================
+
+## Picosat
+Satisfiability: UNSATISFIABLE
+Total time: 0.0 seconds
+Total number of decisions: 3002
+Propagations per second: 3.8 megaprops/second
+
+## Own SAT solver
+Satisfiability: UNSATISFIABLE
+Total time: 0.059765 seconds
+Total number of decisions: 8509
+Propagations per second: 4.83802 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-150-6.cnf
+========================
+
+## Picosat
+Satisfiability: SATISFIABLE
+Total time: 0.0 seconds
+Total number of decisions: 270
+Propagations per second: 2.0 megaprops/second
+
+## Own SAT solver
+Satisfiability: SATISFIABLE
+Total time: 0.024838 seconds
+Total number of decisions: 3028
+Propagations per second: 4.26902 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-150-7.cnf
+========================
+
+## Picosat
+Satisfiability: UNSATISFIABLE
+Total time: 0.0 seconds
+Total number of decisions: 2445
+Propagations per second: 3.8 megaprops/second
+
+## Own SAT solver
+Satisfiability: UNSATISFIABLE
+Total time: 0.050665 seconds
+Total number of decisions: 7976
+Propagations per second: 5.39619 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-150-8.cnf
+========================
+
+## Picosat
+Satisfiability: SATISFIABLE
+Total time: 0.0 seconds
+Total number of decisions: 821
+Propagations per second: 2.8 megaprops/second
+
+## Own SAT solver
+Satisfiability: SATISFIABLE
+Total time: 0.001567 seconds
+Total number of decisions: 62
+Propagations per second: 0.994257 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-150-9.cnf
+========================
+
+## Picosat
+Satisfiability: SATISFIABLE
+Total time: 0.0 seconds
+Total number of decisions: 1263
+Propagations per second: 3.1 megaprops/second
+
+## Own SAT solver
+Satisfiability: SATISFIABLE
+Total time: 0.050477 seconds
+Total number of decisions: 6411
+Propagations per second: 4.5958 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-200-1.cnf
+========================
+
+## Picosat
+Satisfiability: UNSATISFIABLE
+Total time: 0.2 seconds
+Total number of decisions: 15518
+Propagations per second: 4.0 megaprops/second
+
+## Own SAT solver
+Satisfiability: UNSATISFIABLE
+Total time: 0.47079 seconds
+Total number of decisions: 60810
+Propagations per second: 5.56061 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-200-10.cnf
+========================
+
+## Picosat
+Satisfiability: UNSATISFIABLE
+Total time: 0.2 seconds
+Total number of decisions: 18609
+Propagations per second: 3.8 megaprops/second
+
+## Own SAT solver
+Satisfiability: UNSATISFIABLE
+Total time: 0.768106 seconds
+Total number of decisions: 104982
+Propagations per second: 5.76489 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-200-2.cnf
+========================
+
+## Picosat
+Satisfiability: SATISFIABLE
+Total time: 0.1 seconds
+Total number of decisions: 4558
+Propagations per second: 3.8 megaprops/second
+
+## Own SAT solver
+Satisfiability: SATISFIABLE
+Total time: 0.02132 seconds
+Total number of decisions: 1650
+Propagations per second: 3.16918 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-200-3.cnf
+========================
+
+## Picosat
+Satisfiability: UNSATISFIABLE
+Total time: 0.2 seconds
+Total number of decisions: 18580
+Propagations per second: 3.9 megaprops/second
+
+## Own SAT solver
+Satisfiability: UNSATISFIABLE
+Total time: 0.631299 seconds
+Total number of decisions: 85242
+Propagations per second: 5.70603 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-200-4.cnf
+========================
+
+## Picosat
+Satisfiability: UNSATISFIABLE
+Total time: 0.1 seconds
+Total number of decisions: 7299
+Propagations per second: 4.2 megaprops/second
+
+## Own SAT solver
+Satisfiability: UNSATISFIABLE
+Total time: 0.220422 seconds
+Total number of decisions: 29784
+Propagations per second: 5.50329 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-200-5.cnf
+========================
+
+## Picosat
+Satisfiability: UNSATISFIABLE
+Total time: 0.1 seconds
+Total number of decisions: 11554
+Propagations per second: 4.1 megaprops/second
+
+## Own SAT solver
+Satisfiability: UNSATISFIABLE
+Total time: 0.28723 seconds
+Total number of decisions: 36798
+Propagations per second: 5.49967 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-200-6.cnf
+========================
+
+## Picosat
+Satisfiability: SATISFIABLE
+Total time: 0.3 seconds
+Total number of decisions: 25253
+Propagations per second: 3.7 megaprops/second
+
+## Own SAT solver
+Satisfiability: SATISFIABLE
+Total time: 0.368785 seconds
+Total number of decisions: 49308
+Propagations per second: 5.68922 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-200-7.cnf
+========================
+
+## Picosat
+Satisfiability: UNSATISFIABLE
+Total time: 0.3 seconds
+Total number of decisions: 26315
+Propagations per second: 3.7 megaprops/second
+
+## Own SAT solver
+Satisfiability: UNSATISFIABLE
+Total time: 1.11048 seconds
+Total number of decisions: 148457
+Propagations per second: 5.77287 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-200-8.cnf
+========================
+
+## Picosat
+Satisfiability: SATISFIABLE
+Total time: 0.1 seconds
+Total number of decisions: 9299
+Propagations per second: 4.1 megaprops/second
+
+## Own SAT solver
+Satisfiability: SATISFIABLE
+Total time: 0.07398 seconds
+Total number of decisions: 9719
+Propagations per second: 5.40281 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-200-9.cnf
+========================
+
+## Picosat
+Satisfiability: SATISFIABLE
+Total time: 0.1 seconds
+Total number of decisions: 8293
+Propagations per second: 4.0 megaprops/second
+
+## Own SAT solver
+Satisfiability: SATISFIABLE
+Total time: 0.2483 seconds
+Total number of decisions: 33628
+Propagations per second: 5.62053 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-250-1.cnf
+========================
+
+## Picosat
+Satisfiability: UNSATISFIABLE
+Total time: 1.3 seconds
+Total number of decisions: 80183
+Propagations per second: 3.1 megaprops/second
+
+## Own SAT solver
+Satisfiability: UNSATISFIABLE
+Total time: 4.62679 seconds
+Total number of decisions: 536285
+Propagations per second: 5.64211 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-250-10.cnf
+========================
+
+## Picosat
+Satisfiability: SATISFIABLE
+Total time: 0.7 seconds
+Total number of decisions: 50074
+Propagations per second: 3.6 megaprops/second
+
+## Own SAT solver
+Satisfiability: SATISFIABLE
+Total time: 0.51351 seconds
+Total number of decisions: 58231
+Propagations per second: 5.59478 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-250-2.cnf
+========================
+
+## Picosat
+Satisfiability: UNSATISFIABLE
+Total time: 2.2 seconds
+Total number of decisions: 123065
+Propagations per second: 2.7 megaprops/second
+
+## Own SAT solver
+Satisfiability: UNSATISFIABLE
+Total time: 5.99276 seconds
+Total number of decisions: 694997
+Propagations per second: 5.63283 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-250-3.cnf
+========================
+
+## Picosat
+Satisfiability: SATISFIABLE
+Total time: 0.8 seconds
+Total number of decisions: 55647
+Propagations per second: 3.4 megaprops/second
+
+## Own SAT solver
+Satisfiability: SATISFIABLE
+Total time: 1.26924 seconds
+Total number of decisions: 147285
+Propagations per second: 5.58076 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-250-4.cnf
+========================
+
+## Picosat
+Satisfiability: SATISFIABLE
+Total time: 0.3 seconds
+Total number of decisions: 24905
+Propagations per second: 3.9 megaprops/second
+
+## Own SAT solver
+Satisfiability: SATISFIABLE
+Total time: 2.47514 seconds
+Total number of decisions: 281501
+Propagations per second: 5.6196 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-250-5.cnf
+========================
+
+## Picosat
+Satisfiability: UNSATISFIABLE
+Total time: 1.7 seconds
+Total number of decisions: 104613
+Propagations per second: 3.1 megaprops/second
+
+## Own SAT solver
+Satisfiability: UNSATISFIABLE
+Total time: 4.97402 seconds
+Total number of decisions: 573958
+Propagations per second: 5.69775 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-250-6.cnf
+========================
+
+## Picosat
+Satisfiability: UNSATISFIABLE
+Total time: 2.4 seconds
+Total number of decisions: 136808
+Propagations per second: 2.8 megaprops/second
+
+## Own SAT solver
+Satisfiability: UNSATISFIABLE
+Total time: 11.4314 seconds
+Total number of decisions: 1061317
+Propagations per second: 4.55255 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-250-7.cnf
+========================
+
+## Picosat
+Satisfiability: SATISFIABLE
+Total time: 1.0 seconds
+Total number of decisions: 56870
+Propagations per second: 2.7 megaprops/second
+
+## Own SAT solver
+Satisfiability: SATISFIABLE
+Total time: 1.13376 seconds
+Total number of decisions: 103702
+Propagations per second: 4.55503 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-250-8.cnf
+========================
+
+## Picosat
+Satisfiability: UNSATISFIABLE
+Total time: 1.9 seconds
+Total number of decisions: 92288
+Propagations per second: 2.4 megaprops/second
+
+## Own SAT solver
+Satisfiability: UNSATISFIABLE
+Total time: 7.78444 seconds
+Total number of decisions: 723810
+Propagations per second: 4.56656 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-250-9.cnf
+========================
+
+## Picosat
+Satisfiability: SATISFIABLE
+Total time: 0.5 seconds
+Total number of decisions: 32426
+Propagations per second: 2.9 megaprops/second
+
+## Own SAT solver
+Satisfiability: SATISFIABLE
+Total time: 1.42792 seconds
+Total number of decisions: 135022
+Propagations per second: 4.56807 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-300-1.cnf
+========================
+
+## Picosat
+Satisfiability: SATISFIABLE
+Total time: 27.7 seconds
+Total number of decisions: 668948
+Propagations per second: 1.3 megaprops/second
+
+## Own SAT solver
+Satisfiability: SATISFIABLE
+Total time: 4.4836 seconds
+Total number of decisions: 367721
+Propagations per second: 4.51537 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-300-10.cnf
+========================
+
+## Picosat
+Satisfiability: SATISFIABLE
+Total time: 7.1 seconds
+Total number of decisions: 261765
+Propagations per second: 2.1 megaprops/second
+
+## Own SAT solver
+Satisfiability: SATISFIABLE
+Total time: 17.0174 seconds
+Total number of decisions: 1339788
+Propagations per second: 4.52342 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-300-2.cnf
+========================
+
+## Picosat
+Satisfiability: UNSATISFIABLE
+Total time: 26.4 seconds
+Total number of decisions: 647130
+Propagations per second: 1.4 megaprops/second
+
+## Own SAT solver
+Satisfiability: UNSATISFIABLE
+Total time: 87.3941 seconds
+Total number of decisions: 7080093
+Propagations per second: 4.46892 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-300-3.cnf
+========================
+
+## Picosat
+Satisfiability: UNSATISFIABLE
+Total time: 11.6 seconds
+Total number of decisions: 354511
+Propagations per second: 1.7 megaprops/second
+
+## Own SAT solver
+Satisfiability: UNSATISFIABLE
+Total time: 37.2908 seconds
+Total number of decisions: 3054337
+Propagations per second: 4.48566 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-300-4.cnf
+========================
+
+## Picosat
+Satisfiability: UNSATISFIABLE
+Total time: 16.8 seconds
+Total number of decisions: 479041
+Propagations per second: 1.6 megaprops/second
+
+## Own SAT solver
+Satisfiability: UNSATISFIABLE
+Total time: 89.4774 seconds
+Total number of decisions: 7208845
+Propagations per second: 4.45505 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-300-5.cnf
+========================
+
+## Picosat
+Satisfiability: SATISFIABLE
+Total time: 22.4 seconds
+Total number of decisions: 580334
+Propagations per second: 1.5 megaprops/second
+
+## Own SAT solver
+Satisfiability: SATISFIABLE
+Total time: 34.685 seconds
+Total number of decisions: 2795809
+Propagations per second: 4.48808 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-300-6.cnf
+========================
+
+## Picosat
+Satisfiability: UNSATISFIABLE
+Total time: 8.5 seconds
+Total number of decisions: 294491
+Propagations per second: 2.0 megaprops/second
+
+## Own SAT solver
+Satisfiability: UNSATISFIABLE
+Total time: 39.1474 seconds
+Total number of decisions: 3188782
+Propagations per second: 4.46778 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-300-7.cnf
+========================
+
+## Picosat
+Satisfiability: SATISFIABLE
+Total time: 2.6 seconds
+Total number of decisions: 113743
+Propagations per second: 2.5 megaprops/second
+
+## Own SAT solver
+Satisfiability: SATISFIABLE
+Total time: 10.7862 seconds
+Total number of decisions: 877162
+Propagations per second: 4.52024 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-300-8.cnf
+========================
+
+## Picosat
+Satisfiability: UNSATISFIABLE
+Total time: 21.4 seconds
+Total number of decisions: 558417
+Propagations per second: 1.5 megaprops/second
+
+## Own SAT solver
+Satisfiability: UNSATISFIABLE
+Total time: 88.3626 seconds
+Total number of decisions: 7162558
+Propagations per second: 4.47194 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+random3SAT/vars-300-9.cnf
+========================
+
+## Picosat
+Satisfiability: SATISFIABLE
+Total time: 6.2 seconds
+Total number of decisions: 218985
+Propagations per second: 2.0 megaprops/second
+
+## Own SAT solver
+Satisfiability: SATISFIABLE
+Total time: 18.9595 seconds
+Total number of decisions: 1557293
+Propagations per second: 4.48945 megaprops/second
+
+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+

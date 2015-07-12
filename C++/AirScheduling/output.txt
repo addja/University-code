@@ -1,0 +1,12 @@
+output:
+Benchmark/instance_100_10_10.air 53
+Benchmark/instance_100_10_1.air 57
+Benchmark/instance_100_10_2.air 53
+Benchmark/instance_100_10_3.air 49
+Benchmark/instance_100_10_4.air 57
+Benchmark/instance_100_10_5.air 53
+Benchmark/instance_100_10_6.air 56
+Benchmark/instance_100_10_7.air 56
+Benchmark/instance_100_10_8.air 51
+Benchmark/instance_100_10_9.air 53
+Benchmark/instance_100_11_10.air 59
